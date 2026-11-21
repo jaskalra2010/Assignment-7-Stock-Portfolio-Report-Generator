@@ -151,10 +151,10 @@ https://requests-mock.readthedocs.io/en/latest/pytest.html
 
 Mock all API requests in your tests.
 
-✅ Correct:
+Correct:
 
 requests_mock.get(...)
-❌ Incorrect:
+Incorrect:
 
 requests.get(...)
 during testing.
